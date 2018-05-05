@@ -18,7 +18,6 @@ There are two things I'm gonna figure out:
 Yeah, I got it.  Things  I wanna know : 1. can github for windows run offline?
 
 ​								 *2.  what happened when I  change it to a new branch​								 *2.  what happened when I  change it to a new branch
-2.  what happened when I  change it to a new branch
 =======
 Interesting.  Well, first , gfw(github for windows) does work offline.
 
